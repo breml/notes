@@ -207,3 +207,14 @@ func main() {
 		panic("ListenAndServe: " + err.Error())
 	}
 }
+
+// func loadBundle() {
+// 	for k, v := range _bundle {
+// 		b, err := base64.StdEncoding.DecodeString(v)
+// 		if err != nil {
+// 			fmt.Println(err)
+// 		} else {
+// 			_bundle[k] = string(b)
+// 		}
+// 	}
+// }

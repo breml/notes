@@ -7,6 +7,14 @@
    </div>
   <!-- end container -->
   </div>
+<!--
+  <script src="/_static/js/vim.min.js"></script>
+  <script type="text/javascript">
+    vim.open({
+        debug : true
+    });
+  </script>
+-->
  </body>
 </html>
 {{end}}
